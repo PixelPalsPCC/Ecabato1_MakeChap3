@@ -1,3 +1,14 @@
+/**
+  Assignment: MakeChap3
+  Student: Eric Cabato
+  Pasadena City College, Fall 2024
+  Course Name: DMA60 Creative Coding
+  Prof. George McKinney
+  Project Description: This program is a prototype of my Vertex Drawing assignment.
+  Last Modified: September 9, 2024
+  */
+  
+
 void setup() {
   size(640, 360);
 }
